@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Valente</h1>
-<h3 align="center">Flutter Front-end Developer @ BoringStuff 💪</h3>
+<h3 align="center">Flutter Developer 💪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leorc01&label=Profile%20views&color=0e75b6&style=flat" alt="leorc01" /> </p>
 
